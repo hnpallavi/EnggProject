@@ -1,0 +1,51 @@
+.header {
+    height : 100px;
+    width : 100%;
+    font-size : 40px;
+    font-weight: bolder;
+    color : #CC6600;
+    background-color: #1A0514;
+}
+.contents {
+    padding-top : 80px;
+}
+
+*{
+	padding : 0px;
+	margin : 0px;
+	background-color: #F0FFF0;
+}
+
+.centerForm {
+    padding-left : 100px;
+    margin-left: 50px;
+    color: #CC6600;
+}
+
+.inputBox{
+    width : 20rem;
+    height : 40px;
+    color: #CC6600;
+   
+}
+
+.button {
+    width : 20rem;
+    height : 40px;
+    background-color:#666699 ;
+    color : white;
+}
+
+.successMessage {
+    color: #CC6600;
+    margin-left : 700px;
+    font-size: 20px;
+    margin-top : 50px;
+}
+
+.errorMessage {
+   color : red;
+   margin-left : 700px;
+   font-size: 20px;
+   margin-top : 50px;
+}
